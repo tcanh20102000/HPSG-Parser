@@ -1,0 +1,1 @@
+['SUB', 'DEP', 'ROOT', 'DEP', 'PRD', 'DEP', 'DEP', 'PUNCT']
