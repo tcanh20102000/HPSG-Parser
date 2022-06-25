@@ -103,7 +103,7 @@ sh parse.sh
 ```
 ### Training on Google Colab
 
-A way to train HPSG parser on Google Colab is to upload this repository on Google Drive, then open the file HPSG.ipnyp with Google Colab. HPSG.ipnyp contains all the commands you need for training and evaluation so you just need to follow the instructions in that file and configure settings in run_single.sh, test.sh, and parse.sh file. 
+A way to train HPSG parser on Google Colab is to upload this repository on Google Drive, then open the file HPSG.ipynb with Google Colab. HPSG.ipynb contains all the commands you need for training and evaluation so you just need to follow the instructions in that file and configure settings in run_single.sh, test.sh, and parse.sh file. 
 
 **Note**: When training Google Colab, watch out for your Google Drive memory. Since the size of each generated HPSG model is around 0.5GB, the size of models generated from training process may surpass your Google Drive memory capacity. 
 
