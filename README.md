@@ -23,6 +23,8 @@ See [DoodleJZ Github page](https://github.com/DoodleJZ/HPSG-Neural-Parser) for m
 
 ## Training
 
+Download VnData folder from this [Google Drive link](https://drive.google.com/drive/folders/1FehuEEe9mckcD3J8ijhvZuV4ma8KOxxB?usp=sharing), and put them in the data/ folder.
+
 ### Training Instructions
 
 Some of the available arguments are:
